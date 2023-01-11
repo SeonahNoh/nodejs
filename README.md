@@ -3,10 +3,9 @@
 - 서버 프로그램을 사용하여 ToDo App 구현 
 
 ## 🌱 기술 스택
-- Node.js 
-- MongoDB Altas
-- Bootstrap
-- EJS 
+<img src="https://img.shields.io/badge/Node.js-eee?style=flat&logo=Node.js&logoColor=000" width="auto" height="25"/> <img src="https://img.shields.io/badge/MongoDB Altas-eee?style=flat&logo=MongoDB Altas&logoColor=000" width="auto" height="25"/>
+<img src="https://img.shields.io/badge/Bootstrap-eee?style=flat&logo=Bootstrap&logoColor=000" width="auto" height="25"/>
+<img src="https://img.shields.io/badge/EJS-eee?style=flat&logo=EJS&logoColor=000" width="auto" height="25"/>
 
 ## 🌱 특징
 1. Todo Item을 추가, 삭제, 수정할 수 있는 웹 페이지
@@ -22,6 +21,6 @@
 
 
 ## 💡 알게 된 점
-
-<img src="https://img.shields.io/badge/Node.js-dedede?style=flat&logo=Node&logoColor=000" width="auto" height="25"/>
-<span style='background-color:#dedede'>node</span>
+🍫 VScode에서 서버 관련 라이브러리를 추가하는 방법
+🍫 서버에 GET, POST, DELETE, PUT 요청하는 방법
+🍫 ejs 사용법 
