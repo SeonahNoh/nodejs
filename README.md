@@ -20,11 +20,12 @@
 
 ## 🌱 구성 
 ### 메인 페이지
-<kbd><img src="https://user-images.githubusercontent.com/114633506/211701039-e79392dd-7dfd-49ab-aa5b-3d6a9d33e851.png" width="600" height="auto" /></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/114633506/211701039-e79392dd-7dfd-49ab-aa5b-3d6a9d33e851.png" width="550" height="auto" /></kbd>
 
 ### Todo Item 작성 페이지
-<kbd><img src="https://user-images.githubusercontent.com/114633506/211701148-0bd4bd35-d70d-46ed-a351-5dd076184164.png" width="600" height="auto" /><kbd>
+<kbd><img src="https://user-images.githubusercontent.com/114633506/211701148-0bd4bd35-d70d-46ed-a351-5dd076184164.png" width="550" height="auto" /><kbd>
 
+<br> 
 
 ## 💡 알게 된 점
 - VScode에 서버 관련 라이브러리를 추가하는 방법  
