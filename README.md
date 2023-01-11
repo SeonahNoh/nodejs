@@ -1,4 +1,4 @@
-# ToDO App 
+# ToD App 
 ## 목적 
 - 서버 프로그램을 사용하여 ToDo App 구현 
 
