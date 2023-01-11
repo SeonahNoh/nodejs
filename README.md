@@ -21,6 +21,6 @@
 
 
 ## 💡 알게 된 점
-🍫 VScode에서 서버 관련 라이브러리를 추가하는 방법
-🍫 서버에 GET, POST, DELETE, PUT 요청하는 방법
+🍫 VScode에서 서버 관련 라이브러리를 추가하는 방법 
+🍫 서버에 GET, POST, DELETE, PUT 요청하는 방법 
 🍫 ejs 사용법 
