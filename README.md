@@ -1,4 +1,4 @@
-# ToD App 
+# ToDo App 
 ## 🌱 목적 
 ⭐  <b>서버 프로그램을 사용하여 ToDo App 구현</b>
 
