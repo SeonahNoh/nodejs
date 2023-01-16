@@ -55,6 +55,10 @@
     p {
       margin-bottom: 0;
     }
+
+    .details {
+      cursor: pointer;
+    }
   </style>
   <title>🧡TodoApp</title>
 </head>
@@ -103,7 +107,7 @@
       <% for(let i = 0; i < postdata.length; i++) { %>
         <li class="list-group-item _list_item">
           <div class="_flex-1">
-            <h4><%= postdata[i].todo %></h4>
+            <h4 class="details" data-id="<%= postdata[i]._id %>"><%= postdata[i].todo %></h4>
             <p><%= postdata[i].datetime %></p>
           </div>
 
@@ -145,6 +149,10 @@
 
     $('.update').click(function(e) {
       window.open(`http://localhost:8080/edit/${e.target.dataset.id}`, '_self');
+    })
+
+    $('.details').click(function(e) {
+      window.open(`http://localhost:8080/detail/${e.target.dataset.id}`, '_self');
     })
   </script> 
 
