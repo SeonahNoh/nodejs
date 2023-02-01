@@ -119,7 +119,7 @@ app.get('/login', function(req, res) {
 });
 
 app.post('/login', passport.authenticate('local', {failureRedirect: '/fail'}), function(req, res) { 
-  res.redirect('/');
+  res.redirect('/mypage');
 });
 
 passport.use(new LocalStrategy({
